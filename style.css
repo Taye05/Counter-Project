@@ -1,0 +1,13 @@
+body {
+  text-align: center;
+  font-family: "Lemon", cursive;
+  font-size: 40px;
+  background-color: #ffeee4;
+}
+
+.count-btns {
+  width: 170px;
+  height: 60px;
+  border-radius: 16px;
+  margin-top: 10%;
+}
